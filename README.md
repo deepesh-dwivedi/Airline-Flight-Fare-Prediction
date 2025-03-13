@@ -1,4 +1,4 @@
-Project Overview
+## Project Overview
 This project focuses on predicting airline fare prices using various machine learning techniques. By leveraging historical fare data, flight schedules, and market demand, the model identifies key factors that influence fare fluctuations.
 
 📊 Data Sources
